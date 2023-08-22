@@ -20,7 +20,7 @@ A simple sunflower card component using TailwindCSS
 
 ## Live demo
 
-Live Demo:
+Live Demo: [Github Pages](https://bccpadge.github.io/sunflower-card-component-cli/)
 
 ## My process
 
